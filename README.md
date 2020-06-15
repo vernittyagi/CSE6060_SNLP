@@ -8,7 +8,7 @@
    * Frequency Distribution
    * Homework
    
-### Coca_Corpus_Day2
+### NLP_2(19MAI0010)
    * Stemming (PorterStemmer, LancasterStemmer, RegexpStemmer, SnowballStemmer)
    * Hindi Corpus
    * Lemmatizer
