@@ -21,12 +21,18 @@
    * inaugural corpus POS Tagging
    * Stemming the words
    
-### Practice Work
-   * Tokenizer
+### Stemming_words (practice)
+   * PorterStemmer
    * Stemming
-   * Lemmatizer
-   * StopWords Removal
-   * POS Tagging
+   * Stemming the words from sentences
+   * SnowballStemmer for french
+
+### POS_Hands_on (Practice)
+   * corpus
+   * stopwords
+   * Tokenizing the sentences in the txt
+   * Removing the stopwords if any
+   * tagging the words
    
 ### Lexicon Vectorizer
    * Lexicon
