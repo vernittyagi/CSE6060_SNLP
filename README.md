@@ -18,6 +18,7 @@
    * inaugural corpus
    * POS Tagging
    * inaugural corpus POS Tagging
+   * Stemming the words
    
 ### Practice Work
    * Tokenizer
