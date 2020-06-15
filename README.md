@@ -34,7 +34,7 @@
    * Removing the stopwords if any
    * tagging the words
    
-### Lexicon Vectorizer
+### nlp_vectorizor
    * Lexicon
    * simple text classifier
    * vectorisers & cosine similarity
