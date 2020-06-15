@@ -2,7 +2,7 @@
 ## SNLP Lab work
 
 ## Index
-### NLP_LAB_DAY1.ipynb
+### NLP_1(19MAI0010).ipynb
    * Brown Corpus
    * Inaugural Corpus
    * Frequency Distribution
