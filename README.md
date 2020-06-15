@@ -15,10 +15,9 @@
    * Basic text processing Pipeline
    
 ### Tokenizer using NLTK
-   * Hindi corpus
-   * Hindi POS Tagging
-   * Marathi Corpus
-   * Marathi POS Tagging
+   * inaugural corpus
+   * POS Tagging
+   * inaugural corpus POS Tagging
    
 ### Practice Work
    * Tokenizer
