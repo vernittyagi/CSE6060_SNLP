@@ -14,8 +14,9 @@
    * Chinese Segmentation using JIEBA
    * Basic text processing Pipeline
    
-### Tokenizer using NLTK
+### Assessment-1(NLP)
    * inaugural corpus
+   * Tokenzing the words
    * POS Tagging
    * inaugural corpus POS Tagging
    * Stemming the words
