@@ -10,12 +10,11 @@
    
 ### NLP_2(19MAI0010)
    * Stemming (PorterStemmer, LancasterStemmer, RegexpStemmer, SnowballStemmer)
-   * Hindi Corpus
    * Lemmatizer
    * Chinese Segmentation using JIEBA
    * Basic text processing Pipeline
    
-### Hindi Tokenizer using NLTK
+### Tokenizer using NLTK
    * Hindi corpus
    * Hindi POS Tagging
    * Marathi Corpus
