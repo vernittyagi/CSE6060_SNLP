@@ -2,6 +2,9 @@
 ## SNLP Lab work
 
 ## Index
+
+#### Digital Assignment on Polyglot
+
 ### NLP_1(19MAI0010).ipynb
    * Brown Corpus
    * Inaugural Corpus
