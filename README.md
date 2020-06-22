@@ -4,6 +4,11 @@
 ## Index
 
 #### Digital Assignment on Polyglot
+   * Language Detection
+   * Tokenization
+   * pos_tagging 
+   * morphological analysis
+   * SENTIMENT ANALYSIS
 
 ### NLP_1(19MAI0010).ipynb
    * Brown Corpus
